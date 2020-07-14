@@ -1,0 +1,6 @@
+使用方法：
+1.pip install selenium playsound
+2.设置runtime为运行总时间 frequency为查询频率
+3.设置soundfile为任何提示音路径
+4.去google flgiht 网页搜你想要的航班然后把url贴到flight_info的条目中
+5.run
